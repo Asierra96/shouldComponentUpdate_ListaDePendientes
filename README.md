@@ -1,2 +1,2 @@
-# shouldComponentUpdate_ListaDePendientes
+# childrenPropsReact
 Created with CodeSandbox
